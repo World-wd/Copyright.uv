@@ -4,5 +4,7 @@
 - Phrase
 - Poem
 - Book
-- Music / Music Album
-- Video / TV Show
+- Music or Music Album
+- Video or TV Show
+- Character
+- Paint
