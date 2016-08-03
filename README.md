@@ -1,4 +1,5 @@
 # Ideas.wd
+Democratizing copyright, giving all people to register existence of projects into the blockchain network.
 
 # Types #
 - Phrase
