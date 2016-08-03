@@ -5,9 +5,12 @@ Democratizing copyright, giving all people to register existence of projects int
 - Phrase
 - Poem
 - Book
-- Music or Music Album
-- Video or TV Show
+- Logo/Logotype/Icon
+- Music/Audio or Music Album
+- Video or TV Show/Movie/Script
 - Character
-- Paint
+- 3D model
+- Image/Photo
+- Painting/Drawing
 - Product Design
 - Software/Game
